@@ -15,22 +15,29 @@
 Projects
 
 Face Recognition Attendance System
+
 Medicine Trees Project
 
 🛠 Tools
 
 Python
+
 OpenCV
+
 SQL
+
 Power BI
 
 🎓 Certifications
 
 NPTEL
+
 AICTE
 
 ⚡ Hobbies
 
 Watching cricket
+
 Gym
+
 Building new projects
