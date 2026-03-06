@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lalam Vamsi</h1>
 
-<p align="center">
-  lines=Computer+Science+Student;Python+Developer;Interested+in+Machine+Learning;Building+Real+World+Projects&center=true&width=500&height=50">
-</p>
+ A Computer Science student who enjoys building practical software and intelligent systems.
+I like creating projects that solve real-world problems and help automate tasks using modern technologies.
+If an idea comes to my mind, I enjoy experimenting with it and turning it into a working project.
+💻 Tech Stack
+My main tech stack includes Python, Java, SQL, and Power BI.
+I work on projects involving data analysis, computer vision, and software development.
 
 
 ## 🛠 Skills
