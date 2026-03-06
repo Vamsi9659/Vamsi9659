@@ -12,8 +12,18 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
 
 
-## 📊 GitHub Stats
-![Vamsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vamsi9659&show_icons=true)
-
-## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamsi9659&layout=compact)
+Projects
+Face Recognition Attendance System
+Medicine Trees Project
+🛠 Tools
+Python
+OpenCV
+SQL
+Power BI
+🎓 Certifications
+NPTEL
+AICTE
+⚡ Hobbies
+Watching cricket
+Gym
+Building new projects
