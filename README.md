@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lalam Vamsi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Python+Developer;Interested+in+Machine+Learning;Building+Real+World+Projects&center=true&width=500&height=50">
+  lines=Computer+Science+Student;Python+Developer;Interested+in+Machine+Learning;Building+Real+World+Projects&center=true&width=500&height=50">
 </p>
 
 
