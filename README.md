@@ -1,16 +1,30 @@
 ## Hi there 👋
+I'm Lalam Vamsi,
 
-<!--
-**Vamsi9659/Vamsi9659** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a Computer Science student who enjoys building practical software and intelligent systems.
+I like creating projects that solve real-world problems and help automate tasks using modern technologies.
 
-Here are some ideas to get you started:
+If an idea comes to my mind, I enjoy experimenting with it and turning it into a working project.
+💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack includes Python, Java, SQL, and Power BI.
+I work on projects involving data analysis, computer vision, and software development.
+
+PROJECTS.
+Face Recognition Attendance System
+Medicine Trees Project
+
+🛠 Tools
+Python
+OpenCV
+SQL
+Power BI
+
+🎓 Certifications
+NPTEL
+AICTE
+
+⚡ Hobbies
+Watching cricket
+Gym
+Building new projects
